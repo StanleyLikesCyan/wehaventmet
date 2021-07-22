@@ -1,2 +1,2 @@
-# We Haven't Met
+# We Haven't Met (GoldSrc)
 Developer repository for upcoming game by StanleyLikesCyan
