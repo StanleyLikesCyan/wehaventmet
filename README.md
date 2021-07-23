@@ -13,15 +13,15 @@ Developer repository for upcoming game by [**StanleyLikesCyan**](https://www.you
 # Play it for yourself!
 1. Download or clone the repository
 
-![Github Repo](readme_images/github.png)
+![Github Repo](readme_images/github.PNG)
 
 2. Copy the *wehaventmet* folder located inside the *whm_alpha[VERSION NUMBER]*
 
-![We Haven't Met Directory](readme_images/file_explorer.png)
+![We Haven't Met Directory](readme_images/file_explorer.PNG)
 
 3. Paste it into *[YOUR STEAM DIRECTORY]* > steamapps > common > Half-Life
 
-![Half-Life Directory](readme_images/hl_dir.png)
+![Half-Life Directory](readme_images/hl_dir.PNG)
 
 4. Restart Steam
 
@@ -29,7 +29,7 @@ Developer repository for upcoming game by [**StanleyLikesCyan**](https://www.you
 
 5. The mod should be viewable within the Steam library
 
-![Steam Library](readme_images/steam_library.png)
+![Steam Library](readme_images/steam_library.PNG)
 
 6. Press Play I guess
 
